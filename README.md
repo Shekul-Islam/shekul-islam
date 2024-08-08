@@ -1,6 +1,6 @@
 
 
-<p dir="auto"><a href="https://www.youtube.com/@codefixbd" rel="nofollow"><img src="[/atapas/atapas/raw/main/images/YT Fusion - LinkedIn.png](https://media.licdn.com/dms/image/D5616AQE--9HTdr3fEQ/profile-displaybackgroundimage-shrink_350_1400/0/1723039521926?e=1728518400&v=beta&t=3ckR8CrxT8EhLbiYCHYHjD2umYKtfsnaSxh5Ql-iyzU)" alt="GitRoll Profile Badge" style="max-width: 100%;"></a></p>
+<p dir="auto"><a href="https://www.youtube.com/@codefixbd" rel="nofollow"><img src="https://www.linkedin.com/in/shekul-bd201/overlay/background-image/" alt="GitRoll Profile Badge" style="max-width: 100%;"></a></p>
 
 ## Hi there, This is Md. Sakul Islam 👋
 
