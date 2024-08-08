@@ -1,6 +1,6 @@
 
 
-<p dir="auto"><a href="https://www.youtube.com/@codefixbd" rel="nofollow"><img src="https://www.linkedin.com/in/shekul-bd201/overlay/background-image/" alt="GitRoll Profile Badge" style="max-width: 100%;"></a></p>
+<p dir="auto"><img src="https://www.linkedin.com/in/shekul-bd201/overlay/background-image/" alt="GitRoll Profile Badge" style="max-width: 100%;"></p>
 
 ## Hi there, This is Md. Sakul Islam 👋
 
