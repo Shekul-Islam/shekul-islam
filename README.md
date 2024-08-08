@@ -1,13 +1,17 @@
 
 
-## Hi there, I'm Md. Sakul Islam 👋
+<p dir="auto"><a href="https://www.youtube.com/@codefixbd" rel="nofollow"><img src="[/atapas/atapas/raw/main/images/YT Fusion - LinkedIn.png](https://media.licdn.com/dms/image/D5616AQE--9HTdr3fEQ/profile-displaybackgroundimage-shrink_350_1400/0/1723039521926?e=1728518400&v=beta&t=3ckR8CrxT8EhLbiYCHYHjD2umYKtfsnaSxh5Ql-iyzU)" alt="GitRoll Profile Badge" style="max-width: 100%;"></a></p>
+
+## Hi there, This is Md. Sakul Islam 👋
 
 
 
 
-# 💫 About Me:
+
+
+# About Me:
 ### An Open Source Enthusiast
-I am a Full Stack Developer with PHP, Laravel, React.js, Vue.js, Tech, Everything API, RDBMS, WordPress, TailwindCSS. <br>Currently, I'm open to work and employment opportunities.<br><br>I am the co-founder of HappyAddons, one of the most popular and adored Elementor Addons Libraries. I Actively code on WordPress themes and plugins, Laravel, Shell Scripts, and APIs (in-house, end user products, and consumers) every day.<br><br>I love to read books and listen to music.<br><br>🌱 I’m still learning many things on web development, I believe that everyday is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote and relocation)<br>💬 Ask me about Vue.js, React.js, PHP, WordPress, Laravel and API development.<br>📫 I am just one mail away - [shekul dot bd 201 at gmail dot com]<br>🥳 Fun fact: I love to cook, I love to sing, I love to travel for hang-out.
+I am a Full Stack Developer with PHP, Laravel, React.js, Vue.js, Tech, Everything API, RDBMS, WordPress, TailwindCSS. <br>Currently, I'm open to work and employment opportunities.<br><br> I Actively code on PHP, Laravel and FramWorks.<br><br>I love to read books and listen to music.<br><br>🌱 I’m still learning many things on web development, I believe that everyday is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote and relocation)<br>💬 Ask me about Vue.js, React.js, PHP, WordPress, Laravel and API development.<br>📫 I am just one mail away - [shekul dot bd 201 at gmail dot com]<br>🥳 Fun fact: I love to cook, I love to sing, I love to travel for hang-out.
 
 
 ## 🌐 Socials:
