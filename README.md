@@ -1,15 +1,16 @@
 
 
 
-## Hi there, This is Md. Sakul Islam 👋
+## Hi there, <br> This is Md. Sakul Islam 👋 
+### Full Stack Web Developer
 
 
 
 
 
 
-# About Me:
-### An Open Source Enthusiast
+# About:
+
 I am a Full Stack Developer with PHP, Laravel, React.js, Vue.js, Tech, Everything API, RDBMS, WordPress, TailwindCSS. <br>Currently, I'm open to work and employment opportunities.<br> I Actively code on PHP, Laravel and FramWorks.<br><br>I love to read books and listen to music.<br><br>🌱 I’m still learning many things on web development, I believe that everyday is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote and relocation)<br>💬 Ask me about Vue.js, React.js, PHP, WordPress, Laravel and API development.<br>📫 I am just one mail away - [shekul dot bd 201 at gmail dot com]<br>🥳 Fun fact: I love to cook, I love to sing, I love to travel for hang-out.
 
 
