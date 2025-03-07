@@ -5,7 +5,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shekul-bd201/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@codefixbd) 
 
 ---
-[![Visitor Count](https://komarev.com/ghpvc/?username=Shekul-Islam&color=blue&style=flat-square&label=Profile+Views)](https://github.com/Shekul-Islam)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shekul-Islam&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
 
 ### About
 I am a Full Stack Developer with PHP, Laravel, React.js, Vue.js, Tech, Everything API, RDBMS, WordPress, TailwindCSS. <br>Currently, I'm open to work and employment opportunities.<br> I Actively code on PHP, Laravel and FramWorks.<br><br>🌱 I’m still learning many things on web development, I believe that everyday is a learning opportunity.<br>👯 I’m currently open for work and employment opportunities (remote and relocation)<br>💬 Ask me about Vue.js, React.js, PHP, WordPress, Laravel and API development.<br>📫 I am just one mail away - [shekul dot bd 201 at gmail dot com]<br>🥳 Fun fact: I love to cook, I love to sing, I love to travel for hang-out.
