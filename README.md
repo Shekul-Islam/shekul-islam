@@ -22,7 +22,7 @@ I am a Full Stack Developer with PHP, Laravel, React.js, Vue.js, Tech, Everythin
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shekul-Islam&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-“Website without visitors is like a ship lost in the horizon.”
+◌ۗ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ ◌ۗ
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
