@@ -23,7 +23,7 @@ I am a Full Stack Developer with PHP, Laravel, React.js, Vue.js, Tech, Everythin
 
 ### ✍️ Random Dev Quote
 <p align="left" dir="rtl">
-  ◌ۗ رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ ◌ۗ
+  ◌ۗ  رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ  ◌ۗ
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
