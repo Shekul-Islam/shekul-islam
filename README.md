@@ -60,14 +60,10 @@ I am a **Full Stack Web Developer** with hands-on experience building production
 
 ---
 
-## 📊 GitHub Stats
-
-![Sakul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shekul-Islam&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![Sakul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shekul-Islam&theme=vision-friendly-dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shekul-Islam&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.vercel.app/api?username=Shekul-Islam&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shekul-Islam&theme=vision-friendly-dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shekul-Islam&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### ✍️ Dev Quote
