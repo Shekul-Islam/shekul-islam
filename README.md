@@ -19,12 +19,12 @@
 I am a **Full Stack Web Developer** with hands-on experience building production-ready web applications using **PHP, Laravel, Vue.js, React.js, WordPress, REST APIs, RDBMS**, and **Tailwind CSS**.
 
 - 🔭 Currently working as a **Full Stack Web Developer at Service Key**
-- 💻 I actively code in **PHP**, **Laravel**, and modern **JavaScript frameworks**
+- 💻 I actively code in **PHP**, **Laravel**, and modern **JavaScript frameworks* like vue.js, react.js, nextjs**
 - 🌱 Always learning — I believe every day is an opportunity to improve my craft in web development
 - 👯 Open to **collaborations, open-source contributions, and impactful web projects**
 - 💬 Ask me about: **Vue.js, React.js, PHP, WordPress, Laravel, API development**
 - 📫 Reach me via email: **shekul dot bd 201 at gmail dot com**
-- 🥳 Fun fact: I love to **cook**, **sing**, and **travel for hang-outs**
+- 🥳 Fun fact: I like to **think in innovative**, **think positive** and **solving problems**
 
 ---
 
